@@ -48,10 +48,10 @@ my-intellimentor-ai/
 ## COMANDS FOR BACKEND
 cd backend
 python -m venv venv
-# Activate venv:
-# On Windows:
+# Activate venv 
+On Windows:
 venv\Scripts\activate
-# On Mac/Linux:
+On Mac/Linux:
 source venv/bin/activate
 
 pip install -r requirements.txt
